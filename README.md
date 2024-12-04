@@ -10,6 +10,9 @@ Yongqing Jiang, Jianze Wang*, Xinyi Shen, Kaoshan Dai
 ## Example of multi-round interaction results from the MLLM-SDA
 
 ![Image text](https://github.com/Jovanqing97/MLLM-SDA/blob/master/example1.png)
+
+## Intelligent Q&A and interactive system interface
+
 ![Image text](https://github.com/Jovanqing97/MLLM-SDA/blob/master/example2.png)
 
 ## Dataset and code details will be continuously updated...
