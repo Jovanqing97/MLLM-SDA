@@ -7,3 +7,6 @@ Yongqing Jiang, Jianze Wang*, Xinyi Shen, Kaoshan Dai
 2. State Key Laboratory of Intelligent Construction and Healthy Operation and Maintenance of Deep Underground Engieering, Sichuan University, Chengdu, China
 
 ## Dataset and code details will be continuously updated...
+
+## Illustraion of SkinGPT-4
+![Uploading image.png…]()
