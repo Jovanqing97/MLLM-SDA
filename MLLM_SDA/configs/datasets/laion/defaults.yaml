@@ -1,0 +1,5 @@
+datasets:
+  laion:
+    data_type: images
+    build_info:
+      storage: /media/hello/T9/laion_datasest_5000K/{00000..00499}.tar

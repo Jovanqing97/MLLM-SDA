@@ -1,0 +1,5 @@
+datasets:
+  cc_sbu:
+    data_type: images
+    build_info:
+      storage: /media/hello/T9/cc_sbu_datasets/{00000..01255}.tar

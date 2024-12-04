@@ -1,0 +1,5 @@
+datasets:
+  cc_sbu_align:
+    data_type: images
+    build_info:
+      storage: /home/hello/文档/GPTtest/MiniGPT-4-main/cc_sbu_align
