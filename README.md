@@ -8,5 +8,6 @@ Yongqing Jiang, Jianze Wang*, Xinyi Shen, Kaoshan Dai
 
 ## Dataset and code details will be continuously updated...
 
-## Illustraion of SkinGPT-4
-![Uploading image.png…]()
+## Example of multi-round interaction results from the MLLM-SDA
+
+![图片名称](/Users/Jovanqing/Desktop/图片 1.png)  
