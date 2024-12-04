@@ -15,4 +15,7 @@ Yongqing Jiang, Jianze Wang*, Xinyi Shen, Kaoshan Dai
 
 ![Image text](https://github.com/Jovanqing97/MLLM-SDA/blob/master/example2.png)
 
+## Acknowledgement
+This chatbot was developed on [MiniGPT-4](https://minigpt-4.github.io/) for post-earthquake building damage assessment.
+
 ## Dataset and code details will be continuously updated...
