@@ -10,4 +10,4 @@ Yongqing Jiang, Jianze Wang*, Xinyi Shen, Kaoshan Dai
 
 ## Example of multi-round interaction results from the MLLM-SDA
 
-![图片名称](/Users/Jovanqing/Desktop/图片 1.png)  
+![Image text](https://github.com/Jovanqing97/MLLM-SDA/blob/master/example.png)
